@@ -40,7 +40,7 @@
                     <artifactId>maven-surefire-plugin</artifactId>
                     <version>3.0.0-M4</version>
                     <configuration>
-                        <failIfNoTests>true</failIfNoTests>
+                        <failIfNoTests>false</failIfNoTests>
                     </configuration>
 
                 </plugin>
